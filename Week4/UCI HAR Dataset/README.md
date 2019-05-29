@@ -7,11 +7,11 @@ The code run_analysis has a function with is same name that:
 5. Reshapes the binded table
 6. Returns a data set with the average data from the previous data set.
 
-#Code Book
-subject  
+# Code Book
+## subject  
 Test subjects. From 1 to 30
 
-activity 
+## activity 
 1. WALKING 
 2. WALKING_UPSTAIRS 
 3. WALKING_DOWNSTAIRS 
@@ -19,7 +19,7 @@ activity
 5. STANDING 
 6. LAYING
 
-variable 
+## variable 
 Features
 1. tBodyAcc-mean()-X
 2. tBodyAcc-mean()-Y
